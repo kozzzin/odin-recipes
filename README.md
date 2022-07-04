@@ -1,2 +1,2 @@
-#First odin assigment
+# First odin assigment
 Repo to store recipes assigment

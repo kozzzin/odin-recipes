@@ -2,7 +2,7 @@ body {
     padding: 30px;
 }
 
-body#bg {
+#bg {
     background-image: url('./images/burger.gif');
     background-position: center;
     background-repeat: no-repeat;
